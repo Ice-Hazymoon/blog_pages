@@ -1,0 +1,674 @@
+[
+  {
+    "name": "About.html___zh",
+    "path": "/About.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\About.html.vue",
+    "chunkName": "pages/About.html",
+    "meta": {},
+    "alias": [
+      "/amp/About.html"
+    ],
+    "url": "/About.html",
+    "_name": "_78bc281e"
+  },
+  {
+    "name": "author___zh",
+    "path": "/author",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\index.vue",
+    "chunkName": "pages/author/index",
+    "meta": {},
+    "alias": [
+      "/amp/author"
+    ],
+    "url": "/author",
+    "_name": "_376d2445"
+  },
+  {
+    "name": "category___zh",
+    "path": "/category",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\index.vue",
+    "chunkName": "pages/category/index",
+    "meta": {},
+    "alias": [
+      "/amp/category"
+    ],
+    "url": "/category",
+    "_name": "_bd9fcd1c"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "meta": {},
+    "alias": [
+      "/amp/"
+    ],
+    "url": "/",
+    "_name": "_44ba5c30"
+  },
+  {
+    "name": "Github.html___zh",
+    "path": "/Github.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Github.html.vue",
+    "chunkName": "pages/Github.html",
+    "meta": {},
+    "alias": [
+      "/amp/Github.html"
+    ],
+    "url": "/Github.html",
+    "_name": "_60917794"
+  },
+  {
+    "name": "index___ja",
+    "path": "/ja",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "meta": {},
+    "alias": [
+      "/amp/"
+    ],
+    "url": "/",
+    "_name": "_44ba5c30"
+  },
+  {
+    "name": "Links.html___zh",
+    "path": "/Links.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Links.html.vue",
+    "chunkName": "pages/Links.html",
+    "meta": {},
+    "alias": [
+      "/amp/Links.html"
+    ],
+    "url": "/Links.html",
+    "_name": "_3422251c"
+  },
+  {
+    "name": "Search.html___zh",
+    "path": "/Search.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "chunkName": "pages/Search.html",
+    "meta": {},
+    "alias": [
+      "/amp/Search.html"
+    ],
+    "url": "/Search.html",
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag___zh",
+    "path": "/tag",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\index.vue",
+    "chunkName": "pages/tag/index",
+    "meta": {},
+    "alias": [
+      "/amp/tag"
+    ],
+    "url": "/tag",
+    "_name": "_1a4e550a"
+  },
+  {
+    "name": "Timeline.html___zh",
+    "path": "/Timeline.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Timeline.html.vue",
+    "chunkName": "pages/Timeline.html",
+    "meta": {},
+    "alias": [
+      "/amp/Timeline.html"
+    ],
+    "url": "/Timeline.html",
+    "_name": "_2f939776"
+  },
+  {
+    "name": "Twitter.html___zh",
+    "path": "/Twitter.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Twitter.html.vue",
+    "chunkName": "pages/Twitter.html",
+    "meta": {},
+    "alias": [
+      "/amp/Twitter.html"
+    ],
+    "url": "/Twitter.html",
+    "_name": "_255ae578"
+  },
+  {
+    "name": "About.html___en",
+    "path": "/en/About.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\About.html.vue",
+    "chunkName": "pages/About.html",
+    "meta": {},
+    "alias": [
+      "/amp/About.html"
+    ],
+    "url": "/About.html",
+    "_name": "_78bc281e"
+  },
+  {
+    "name": "author___en",
+    "path": "/en/author",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\index.vue",
+    "chunkName": "pages/author/index",
+    "meta": {},
+    "alias": [
+      "/amp/author"
+    ],
+    "url": "/author",
+    "_name": "_376d2445"
+  },
+  {
+    "name": "category___en",
+    "path": "/en/category",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\index.vue",
+    "chunkName": "pages/category/index",
+    "meta": {},
+    "alias": [
+      "/amp/category"
+    ],
+    "url": "/category",
+    "_name": "_bd9fcd1c"
+  },
+  {
+    "name": "Github.html___en",
+    "path": "/en/Github.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Github.html.vue",
+    "chunkName": "pages/Github.html",
+    "meta": {},
+    "alias": [
+      "/amp/Github.html"
+    ],
+    "url": "/Github.html",
+    "_name": "_60917794"
+  },
+  {
+    "name": "Links.html___en",
+    "path": "/en/Links.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Links.html.vue",
+    "chunkName": "pages/Links.html",
+    "meta": {},
+    "alias": [
+      "/amp/Links.html"
+    ],
+    "url": "/Links.html",
+    "_name": "_3422251c"
+  },
+  {
+    "name": "Search.html___en",
+    "path": "/en/Search.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "chunkName": "pages/Search.html",
+    "meta": {},
+    "alias": [
+      "/amp/Search.html"
+    ],
+    "url": "/Search.html",
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag___en",
+    "path": "/en/tag",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\index.vue",
+    "chunkName": "pages/tag/index",
+    "meta": {},
+    "alias": [
+      "/amp/tag"
+    ],
+    "url": "/tag",
+    "_name": "_1a4e550a"
+  },
+  {
+    "name": "Timeline.html___en",
+    "path": "/en/Timeline.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Timeline.html.vue",
+    "chunkName": "pages/Timeline.html",
+    "meta": {},
+    "alias": [
+      "/amp/Timeline.html"
+    ],
+    "url": "/Timeline.html",
+    "_name": "_2f939776"
+  },
+  {
+    "name": "Twitter.html___en",
+    "path": "/en/Twitter.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Twitter.html.vue",
+    "chunkName": "pages/Twitter.html",
+    "meta": {},
+    "alias": [
+      "/amp/Twitter.html"
+    ],
+    "url": "/Twitter.html",
+    "_name": "_255ae578"
+  },
+  {
+    "name": "About.html___ja",
+    "path": "/ja/About.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\About.html.vue",
+    "chunkName": "pages/About.html",
+    "meta": {},
+    "alias": [
+      "/amp/About.html"
+    ],
+    "url": "/About.html",
+    "_name": "_78bc281e"
+  },
+  {
+    "name": "author___ja",
+    "path": "/ja/author",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\index.vue",
+    "chunkName": "pages/author/index",
+    "meta": {},
+    "alias": [
+      "/amp/author"
+    ],
+    "url": "/author",
+    "_name": "_376d2445"
+  },
+  {
+    "name": "category___ja",
+    "path": "/ja/category",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\index.vue",
+    "chunkName": "pages/category/index",
+    "meta": {},
+    "alias": [
+      "/amp/category"
+    ],
+    "url": "/category",
+    "_name": "_bd9fcd1c"
+  },
+  {
+    "name": "Github.html___ja",
+    "path": "/ja/Github.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Github.html.vue",
+    "chunkName": "pages/Github.html",
+    "meta": {},
+    "alias": [
+      "/amp/Github.html"
+    ],
+    "url": "/Github.html",
+    "_name": "_60917794"
+  },
+  {
+    "name": "Links.html___ja",
+    "path": "/ja/Links.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Links.html.vue",
+    "chunkName": "pages/Links.html",
+    "meta": {},
+    "alias": [
+      "/amp/Links.html"
+    ],
+    "url": "/Links.html",
+    "_name": "_3422251c"
+  },
+  {
+    "name": "Search.html___ja",
+    "path": "/ja/Search.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "chunkName": "pages/Search.html",
+    "meta": {},
+    "alias": [
+      "/amp/Search.html"
+    ],
+    "url": "/Search.html",
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag___ja",
+    "path": "/ja/tag",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\index.vue",
+    "chunkName": "pages/tag/index",
+    "meta": {},
+    "alias": [
+      "/amp/tag"
+    ],
+    "url": "/tag",
+    "_name": "_1a4e550a"
+  },
+  {
+    "name": "Timeline.html___ja",
+    "path": "/ja/Timeline.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Timeline.html.vue",
+    "chunkName": "pages/Timeline.html",
+    "meta": {},
+    "alias": [
+      "/amp/Timeline.html"
+    ],
+    "url": "/Timeline.html",
+    "_name": "_2f939776"
+  },
+  {
+    "name": "Twitter.html___ja",
+    "path": "/ja/Twitter.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Twitter.html.vue",
+    "chunkName": "pages/Twitter.html",
+    "meta": {},
+    "alias": [
+      "/amp/Twitter.html"
+    ],
+    "url": "/Twitter.html",
+    "_name": "_255ae578"
+  },
+  {
+    "name": "author-id___en",
+    "path": "/en/author/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\_id.vue",
+    "chunkName": "pages/author/_id",
+    "meta": {},
+    "alias": [
+      "/amp/author/:id"
+    ],
+    "_name": "_461173ed"
+  },
+  {
+    "name": "category-id___en",
+    "path": "/en/category/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\_id.vue",
+    "chunkName": "pages/category/_id",
+    "meta": {},
+    "alias": [
+      "/amp/category/:id"
+    ],
+    "_name": "_af0c5f4c"
+  },
+  {
+    "name": "page-page.html___en",
+    "path": "/en/page/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\index.vue",
+    "meta": {},
+    "alias": [
+      "/amp/page/:page.html"
+    ],
+    "_name": "_44ba5c30"
+  },
+  {
+    "name": "search-keyword___en",
+    "path": "/en/search/:keyword",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "meta": {},
+    "alias": [
+      "/amp/search/:keyword"
+    ],
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag-id___en",
+    "path": "/en/tag/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\_id.vue",
+    "chunkName": "pages/tag/_id",
+    "meta": {},
+    "alias": [
+      "/amp/tag/:id"
+    ],
+    "_name": "_0aa211f2"
+  },
+  {
+    "name": "author-id___ja",
+    "path": "/ja/author/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\_id.vue",
+    "chunkName": "pages/author/_id",
+    "meta": {},
+    "alias": [
+      "/amp/author/:id"
+    ],
+    "_name": "_461173ed"
+  },
+  {
+    "name": "category-id___ja",
+    "path": "/ja/category/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\_id.vue",
+    "chunkName": "pages/category/_id",
+    "meta": {},
+    "alias": [
+      "/amp/category/:id"
+    ],
+    "_name": "_af0c5f4c"
+  },
+  {
+    "name": "page-page.html___ja",
+    "path": "/ja/page/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\index.vue",
+    "meta": {},
+    "alias": [
+      "/amp/page/:page.html"
+    ],
+    "_name": "_44ba5c30"
+  },
+  {
+    "name": "search-keyword___ja",
+    "path": "/ja/search/:keyword",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "meta": {},
+    "alias": [
+      "/amp/search/:keyword"
+    ],
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag-id___ja",
+    "path": "/ja/tag/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\_id.vue",
+    "chunkName": "pages/tag/_id",
+    "meta": {},
+    "alias": [
+      "/amp/tag/:id"
+    ],
+    "_name": "_0aa211f2"
+  },
+  {
+    "name": "author-id-page.html___en",
+    "path": "/en/author/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/author/:id/:page.html"
+    ],
+    "_name": "_461173ed"
+  },
+  {
+    "name": "category-id-page.html___en",
+    "path": "/en/category/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/category/:id/:page.html"
+    ],
+    "_name": "_af0c5f4c"
+  },
+  {
+    "name": "search-keyword-page.html___en",
+    "path": "/en/search/:keyword/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "meta": {},
+    "alias": [
+      "/amp/search/:keyword/:page.html"
+    ],
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag-id-page.html___en",
+    "path": "/en/tag/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/tag/:id/:page.html"
+    ],
+    "_name": "_0aa211f2"
+  },
+  {
+    "name": "author-id-page.html___ja",
+    "path": "/ja/author/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/author/:id/:page.html"
+    ],
+    "_name": "_461173ed"
+  },
+  {
+    "name": "category-id-page.html___ja",
+    "path": "/ja/category/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/category/:id/:page.html"
+    ],
+    "_name": "_af0c5f4c"
+  },
+  {
+    "name": "search-keyword-page.html___ja",
+    "path": "/ja/search/:keyword/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "meta": {},
+    "alias": [
+      "/amp/search/:keyword/:page.html"
+    ],
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag-id-page.html___ja",
+    "path": "/ja/tag/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/tag/:id/:page.html"
+    ],
+    "_name": "_0aa211f2"
+  },
+  {
+    "name": "author-id___zh",
+    "path": "/author/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\_id.vue",
+    "chunkName": "pages/author/_id",
+    "meta": {},
+    "alias": [
+      "/amp/author/:id"
+    ],
+    "_name": "_461173ed"
+  },
+  {
+    "name": "category-id___zh",
+    "path": "/category/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\_id.vue",
+    "chunkName": "pages/category/_id",
+    "meta": {},
+    "alias": [
+      "/amp/category/:id"
+    ],
+    "_name": "_af0c5f4c"
+  },
+  {
+    "name": "page-page.html___zh",
+    "path": "/page/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\index.vue",
+    "meta": {},
+    "alias": [
+      "/amp/page/:page.html"
+    ],
+    "_name": "_44ba5c30"
+  },
+  {
+    "name": "search-keyword___zh",
+    "path": "/search/:keyword",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "meta": {},
+    "alias": [
+      "/amp/search/:keyword"
+    ],
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag-id___zh",
+    "path": "/tag/:id",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\_id.vue",
+    "chunkName": "pages/tag/_id",
+    "meta": {},
+    "alias": [
+      "/amp/tag/:id"
+    ],
+    "_name": "_0aa211f2"
+  },
+  {
+    "name": "author-id-page.html___zh",
+    "path": "/author/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\author\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/author/:id/:page.html"
+    ],
+    "_name": "_461173ed"
+  },
+  {
+    "name": "category-id-page.html___zh",
+    "path": "/category/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\category\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/category/:id/:page.html"
+    ],
+    "_name": "_af0c5f4c"
+  },
+  {
+    "name": "search-keyword-page.html___zh",
+    "path": "/search/:keyword/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\Search.html.vue",
+    "meta": {},
+    "alias": [
+      "/amp/search/:keyword/:page.html"
+    ],
+    "_name": "_2b834922"
+  },
+  {
+    "name": "tag-id-page.html___zh",
+    "path": "/tag/:id/:page.html",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\tag\\\\_id.vue",
+    "meta": {},
+    "alias": [
+      "/amp/tag/:id/:page.html"
+    ],
+    "_name": "_0aa211f2"
+  },
+  {
+    "name": "year-month-day-id___en",
+    "path": "/en/:year/:month?/:day?/:id?",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\_year\\\\_month\\\\_day\\\\_id.vue",
+    "chunkName": "pages/_year/_month/_day/_id",
+    "meta": {},
+    "alias": [
+      "/amp/:year/:month?/:day?/:id?"
+    ],
+    "_name": "_267a96d2"
+  },
+  {
+    "name": "year-month-day-id___ja",
+    "path": "/ja/:year/:month?/:day?/:id?",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\_year\\\\_month\\\\_day\\\\_id.vue",
+    "chunkName": "pages/_year/_month/_day/_id",
+    "meta": {},
+    "alias": [
+      "/amp/:year/:month?/:day?/:id?"
+    ],
+    "_name": "_267a96d2"
+  },
+  {
+    "name": "index___zh",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "meta": {},
+    "alias": [
+      "/amp/"
+    ],
+    "url": "/",
+    "_name": "_44ba5c30"
+  },
+  {
+    "name": "year-month-day-id___zh",
+    "path": "/:year/:month?/:day?/:id?",
+    "component": "C:\\\\Users\\\\Hazymoon\\\\Desktop\\\\Project\\\\hazymoon\\\\pages\\\\_year\\\\_month\\\\_day\\\\_id.vue",
+    "chunkName": "pages/_year/_month/_day/_id",
+    "meta": {},
+    "alias": [
+      "/amp/:year/:month?/:day?/:id?"
+    ],
+    "_name": "_267a96d2"
+  }
+]

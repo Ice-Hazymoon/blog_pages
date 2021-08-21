@@ -1,0 +1,3 @@
+/express/*  https://blog-api.imiku.me/express/:splat  200
+/wordpress/*  https://blog-api.imiku.me/:splat  200
+/*    /index.html   200
